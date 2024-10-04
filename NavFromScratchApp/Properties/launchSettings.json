@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NavFromScratchApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NavFromScratchApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
